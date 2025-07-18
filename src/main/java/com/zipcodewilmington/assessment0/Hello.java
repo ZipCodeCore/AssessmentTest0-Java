@@ -7,6 +7,7 @@ public class Hello {
      * @return "Hello, World!"
      */
     public static String helloWorld() {
-        return null;
+        String hi = "Hello, World!";
+        return hi;
     }
 }
